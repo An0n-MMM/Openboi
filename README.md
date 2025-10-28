@@ -19,7 +19,7 @@ Multiplayer: Play online with friends or join a public server (Planned)
 
 Player customization: Customize your player and ship (In development)
 
-Trading: Trade goods with other players or NPCs' to make a profit (Planned)
+Trading: Trade goods with other players or NPC's to make a profit (Planned)
 
 Singleplayer: No internet? no problem, play the game with NPC's istead of other players (In development)
 

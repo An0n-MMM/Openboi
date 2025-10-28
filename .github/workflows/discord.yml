@@ -1,0 +1,19 @@
+name: Discord Push Notifier
+
+on:
+  push:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord notification
+        uses: tsickert/discord-webhook@v5
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          username: "GitHub Bot"
+          content: |
+            **New push to `${{ github.repository }}`**
+              Committer: ${{ github.actor }}
+              Message: ${{ github.event.head_commit.message }}
+              [View commit](${{ github.event.head_commit.url }})

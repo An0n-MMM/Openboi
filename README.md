@@ -26,7 +26,7 @@ Mod support: Create mods and modded servers for your friends or yourself (In dev
 
 ## Installation
 
-(this will be updated on inital release, because im lazy and dont wanna type more)
+(this will be updated on inital release, because I'm extremely lazy and dont wanna type more)
 
 ## Important links
 

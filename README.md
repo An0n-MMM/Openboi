@@ -1,6 +1,6 @@
 # Openboi
 Fan made remake of the space drone constructor Droneboi
-Openboi Is a cross-patform(work in progress) space drone constructor similar to nimbatus or the game series droneboi. Openboi provides a open source, moddable alternative compared to the original game(s) 
+Openboi Is a cross-patform (work in progress) space drone constructor similar to nimbatus or the game series droneboi. Openboi provides a open source, moddable alternative compared to the original game(s) 
 ## Features
 Open world exploration: Explore vast sectors with planets and valuable resources to gather (Work in progress)
 
@@ -22,9 +22,11 @@ Trading: Trade goods with other players or NPCs' to make a profit (Planned)
 
 Singleplayer: No internet? no problem, play the game with NPC's istead of other players (In development)
 
+Mod support: Create mods and modded servers for your friends or yourself (In development)
+
 ## Installation
 
-(this will be updated on inital release)
+(this will be updated on inital release, because im lazy and dont wanna type more)
 
 ## Important links
 
